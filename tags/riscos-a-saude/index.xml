@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Riscos À Saúde | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/riscos-a-saude/</link>
-      <atom:link href="https://example.com/tags/riscos-a-saude/index.xml" rel="self" type="application/rss+xml" />
+    <title>Riscos À Saúde | Jéssica&#39;s Porfolio</title>
+    <link>http://localhost:1313/tags/riscos-a-saude/</link>
+      <atom:link href="http://localhost:1313/tags/riscos-a-saude/index.xml" rel="self" type="application/rss+xml" />
     <description>Riscos À Saúde</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Riscos À Saúde</title>
-      <link>https://example.com/tags/riscos-a-saude/</link>
+      <link>http://localhost:1313/tags/riscos-a-saude/</link>
     </image>
     
     <item>
       <title>Qualidade do ar e riscos socioecológicos em Joinville</title>
-      <link>https://example.com/project/joinville/</link>
+      <link>http://localhost:1313/project/joinville/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/joinville/</guid>
-      <description>&lt;p&gt;Free access until January 1, 2025—don’t miss out. We explored the the health risks of source-specific PM2.5 exposure over a coastal industrial city
+      <guid>http://localhost:1313/project/joinville/</guid>
+      <description>&lt;p&gt;We explored the the health risks of source-specific PM2.5 exposure over a coastal industrial city
 in southern Brazil. Enjoy!&lt;/p&gt;</description>
     </item>
     
