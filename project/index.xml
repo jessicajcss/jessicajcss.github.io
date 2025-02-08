@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Hugo Academic CV Theme</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Jéssica&#39;s Porfolio</title>
+    <link>https://jessicajcss.github.io/project/</link>
+      <atom:link href="https://jessicajcss.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://jessicajcss.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://jessicajcss.github.io/project/</link>
     </image>
     
     <item>
       <title>Qualidade do ar e riscos socioecológicos em Joinville</title>
-      <link>https://example.com/project/joinville/</link>
+      <link>https://jessicajcss.github.io/project/joinville/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/joinville/</guid>
-      <description>&lt;p&gt;Free access until January 1, 2025—don’t miss out. We explored the the health risks of source-specific PM2.5 exposure over a coastal industrial city
+      <guid>https://jessicajcss.github.io/project/joinville/</guid>
+      <description>&lt;p&gt;We explored the the health risks of source-specific PM2.5 exposure over a coastal industrial city
 in southern Brazil. Enjoy!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Projeto Qualidade do Ar na RMC</title>
-      <link>https://example.com/project/regiaometropolitanadecuritiba/</link>
+      <link>https://jessicajcss.github.io/project/regiaometropolitanadecuritiba/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/regiaometropolitanadecuritiba/</guid>
+      <guid>https://jessicajcss.github.io/project/regiaometropolitanadecuritiba/</guid>
       <description>&lt;p&gt;Explore the data. An air quality monitoring network of sensors in a region surrounded by consolidated
 limestone mining and one of the world’s largest cement plants.&lt;/p&gt;</description>
     </item>
