@@ -1,4 +1,3 @@
-
 [submodule "public"]
 	path = public
 	url = git@github.com:jessicajcss/jessicajcss.github.io.git
