@@ -5,20 +5,12 @@
     <link>https://example.com/tags/academic/</link>
       <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Academic</title>
       <link>https://example.com/tags/academic/</link>
     </image>
-    
-    <item>
-      <title>A new strategy for risk assessment of PM2.5-bound elements by considering the influence of wind regimes</title>
-      <link>https://example.com/publication/a-new-strategy-for-risk-assessment-of-pm2-5-bound-elements-by-considering-the-influence-of-wind-regimes/</link>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/a-new-strategy-for-risk-assessment-of-pm2-5-bound-elements-by-considering-the-influence-of-wind-regimes/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
