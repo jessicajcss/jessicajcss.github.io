@@ -36,7 +36,9 @@ languages:
 - name: English
   percent: 95
 - name: Spanish
-  percent: 15
+  percent: 25
+- name: Italian
+  percent: 50
 last_name: Santos-Silva
 
 organizations:

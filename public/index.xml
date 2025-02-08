@@ -336,7 +336,7 @@ limestone mining and one of the world’s largest cement plants.&lt;/p&gt;</desc
 
 
 
-&lt;div id=&#34;chart-915423786&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-648257139&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -354,7 +354,7 @@ limestone mining and one of the world’s largest cement plants.&lt;/p&gt;</desc
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-915423786&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-648257139&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
