@@ -34,14 +34,6 @@
     </item>
     
     <item>
-      <title>A new strategy for risk assessment of PM2.5-bound elements by considering the influence of wind regimes</title>
-      <link>https://example.com/publication/a-new-strategy-for-risk-assessment-of-pm2-5-bound-elements-by-considering-the-influence-of-wind-regimes/</link>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/a-new-strategy-for-risk-assessment-of-pm2-5-bound-elements-by-considering-the-influence-of-wind-regimes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A fingerprint of source-specific health risk of PM2.5-bound components over a coastal industrial city</title>
       <link>https://example.com/publication/journal-article/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
@@ -320,7 +312,7 @@ limestone mining and one of the world’s largest cement plants.&lt;/p&gt;</desc
 
 
 
-&lt;div id=&#34;chart-426531897&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-231986547&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -338,7 +330,7 @@ limestone mining and one of the world’s largest cement plants.&lt;/p&gt;</desc
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-426531897&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-231986547&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

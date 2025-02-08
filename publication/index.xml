@@ -5,20 +5,12 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
-    
-    <item>
-      <title>A new strategy for risk assessment of PM2.5-bound elements by considering the influence of wind regimes</title>
-      <link>https://example.com/publication/a-new-strategy-for-risk-assessment-of-pm2-5-bound-elements-by-considering-the-influence-of-wind-regimes/</link>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/a-new-strategy-for-risk-assessment-of-pm2-5-bound-elements-by-considering-the-influence-of-wind-regimes/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>A fingerprint of source-specific health risk of PM2.5-bound components over a coastal industrial city</title>
