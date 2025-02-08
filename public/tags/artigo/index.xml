@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artigo | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/artigo/</link>
-      <atom:link href="http://localhost:1313/tags/artigo/index.xml" rel="self" type="application/rss+xml" />
+    <title>Artigo | Jéssica&#39;s Porfolio</title>
+    <link>https://jessicajcss.github.io/tags/artigo/</link>
+      <atom:link href="https://jessicajcss.github.io/tags/artigo/index.xml" rel="self" type="application/rss+xml" />
     <description>Artigo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://jessicajcss.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Artigo</title>
-      <link>http://localhost:1313/tags/artigo/</link>
+      <link>https://jessicajcss.github.io/tags/artigo/</link>
     </image>
     
     <item>
       <title>Qualidade do ar e riscos socioecológicos em Joinville</title>
-      <link>http://localhost:1313/project/joinville/</link>
+      <link>https://jessicajcss.github.io/project/joinville/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/joinville/</guid>
-      <description>&lt;p&gt;Free access until January 1, 2025—don’t miss out. We explored the the health risks of source-specific PM2.5 exposure over a coastal industrial city
+      <guid>https://jessicajcss.github.io/project/joinville/</guid>
+      <description>&lt;p&gt;We explored the the health risks of source-specific PM2.5 exposure over a coastal industrial city
 in southern Brazil. Enjoy!&lt;/p&gt;</description>
     </item>
     

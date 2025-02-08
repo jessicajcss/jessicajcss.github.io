@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RMC Qualidade Do Ar | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/rmc-qualidade-do-ar/</link>
-      <atom:link href="http://localhost:1313/tags/rmc-qualidade-do-ar/index.xml" rel="self" type="application/rss+xml" />
+    <title>RMC Qualidade Do Ar | Jéssica&#39;s Porfolio</title>
+    <link>https://jessicajcss.github.io/tags/rmc-qualidade-do-ar/</link>
+      <atom:link href="https://jessicajcss.github.io/tags/rmc-qualidade-do-ar/index.xml" rel="self" type="application/rss+xml" />
     <description>RMC Qualidade Do Ar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://jessicajcss.github.io/media/icon_hu7729264130191091259.png</url>
       <title>RMC Qualidade Do Ar</title>
-      <link>http://localhost:1313/tags/rmc-qualidade-do-ar/</link>
+      <link>https://jessicajcss.github.io/tags/rmc-qualidade-do-ar/</link>
     </image>
     
     <item>
       <title>Projeto Qualidade do Ar na RMC</title>
-      <link>http://localhost:1313/project/regiaometropolitanadecuritiba/</link>
+      <link>https://jessicajcss.github.io/project/regiaometropolitanadecuritiba/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/regiaometropolitanadecuritiba/</guid>
+      <guid>https://jessicajcss.github.io/project/regiaometropolitanadecuritiba/</guid>
       <description>&lt;p&gt;Explore the data. An air quality monitoring network of sensors in a region surrounded by consolidated
 limestone mining and one of the world’s largest cement plants.&lt;/p&gt;</description>
     </item>

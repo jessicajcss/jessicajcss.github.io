@@ -1,6 +1,6 @@
 ---
 date: "2024-11-16"
-external_link: https://authors.elsevier.com/c/1k58D15DSlVXye
+external_link: https://doi.org/10.1016/j.jhazmat.2024.136369
 tags:
 - Riscos à saúde
 - Joinville
@@ -8,7 +8,7 @@ tags:
 title: Qualidade do ar e riscos socioecológicos em Joinville
 ---
 
-Free access until January 1, 2025—don’t miss out. We explored the the health risks of source-specific PM2.5 exposure over a coastal industrial city
+We explored the the health risks of source-specific PM2.5 exposure over a coastal industrial city
 in southern Brazil. Enjoy!
 
 <!--more-->
