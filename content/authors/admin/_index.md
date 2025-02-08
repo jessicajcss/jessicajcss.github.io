@@ -1,5 +1,5 @@
 ---
-title: "Santos-Silva, J. C."
+title: "Santos-Silva, J. C"
 education:
 - area: PhD Water Resources and Environmental Engineering
   button:
